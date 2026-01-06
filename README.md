@@ -11,7 +11,8 @@ Framework: Spring Boot<br>
 Architecture: Domain-driven, UseCase-oriented<br>
 Interfaces: REST API, Scheduler (Web UI is optional)<br>
 
-========
+-------------------
+
 
 ## Description
 
@@ -89,7 +90,8 @@ Controller를 얇게 유지하고, 프레임워크 의존 코드 격리
 각 Milestone은 여러 개의 GitHub Issue로 구성되며,
 프로젝트의 진행 상황은 대규모 기능 단위 커밋이 아닌 Issue 단위로 관리됩니다.<br>
 
-==========
+-------------------
+
 
 이 프로젝트는 각 마일스톤을 여러 이슈로 나누어 관리합니다. 한 번에 큰 기능을 커밋하기보다, 개별 이슈를 통해 개발 과정을 투명하게 기록하고 추적합니다.<br>
 각 마일스톤은 여러 개의 이슈로 구성되며, 대규모 커밋 대신 이슈 단위로 진행 상황을 관리합니다. 이를 통해 코드 리뷰의 효율성을 높이고 작업 히스토리를 명확히 유지하고 있습니다.<br>
